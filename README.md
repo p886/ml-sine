@@ -1,6 +1,6 @@
 # Learn Sine Function
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jzYQYGXYPpA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[COOL VIDEO DEMO](https://www.youtube.com/watch/jzYQYGXYPpA)
 
 ## Command line options
 
