@@ -1,6 +1,8 @@
 # Learn Sine Function
 
-[COOL VIDEO DEMO](https://www.youtube.com/watch/jzYQYGXYPpA)
+A neural network learns a sine function.
+
+[COOL VIDEO DEMO MUST WATCH!](https://www.youtube.com/watch/jzYQYGXYPpA)
 [How to create these animations](https://philippantar.com/posts/one-way-to-generate-animations-with-keras/)
 
 ## Command line options
