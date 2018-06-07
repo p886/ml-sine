@@ -1,6 +1,7 @@
 # Learn Sine Function
 
 [COOL VIDEO DEMO](https://www.youtube.com/watch/jzYQYGXYPpA)
+[How to create these animations](https://philippantar.com/posts/one-way-to-generate-animations-with-keras/)
 
 ## Command line options
 
